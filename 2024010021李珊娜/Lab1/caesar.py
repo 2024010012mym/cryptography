@@ -44,6 +44,6 @@ for k in range(1, 26):
 print("-" * 40)
 
 # 输出最优结果
-print("\n自动识别结果：")
+print("\n 自动识别结果：")
 print(f"最可能的密钥 k = {best_k}")
 print(f"对应明文：{best_plain}")
