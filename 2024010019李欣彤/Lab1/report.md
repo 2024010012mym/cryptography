@@ -10,7 +10,7 @@ Lab1 穷举法破译凯撒密码 实验报告
  
 1. 正确密钥 k = 20
 
-2. 解密后明文：TALKRSHEACPHDTELPELPD
+2. 解密后明文：TALKISCHEAPSHOWMETHECODE
  
 三、判断依据
  
